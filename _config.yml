@@ -90,10 +90,10 @@ url-pretty: "loganteal.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: "loganteal"
+disqus: "loganteal"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "UA-102900658-1"
+google_analytics: "UA-102900658-1"
 
 # Google Tag Manager ID
 #gtm: ""
