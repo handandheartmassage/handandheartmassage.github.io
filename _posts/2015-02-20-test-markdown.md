@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Markdown"
+title: "Test markdown"
 tags: [Data Science, r, r-bloggers, packages]
 date: 2017-01-09 05:00:00 -0500
 layout: post
