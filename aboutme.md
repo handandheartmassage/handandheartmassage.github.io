@@ -12,4 +12,4 @@ subtitle: Get to know me
 
 **Childhood**:  Born in Virginia, but North Carolina is home and where I grew up since the age of 6.  Many hours of my...
 
-![My Family](/img/fam.jpg) : "Graduation from Master's Program (2017)"
+ - "/img/fam.jpg" : "Graduation from Master's Program (2017)"
