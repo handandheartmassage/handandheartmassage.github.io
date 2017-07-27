@@ -4,7 +4,7 @@ title: About me
 subtitle: Get to know me
 ---
 
-:briefcase: Currently, I am a Risk Analyst at [Elevate Credit](www.elevate.com) in Forth Worth, Texas.  <--Elevate is a fin-tech company, proving online lending solutions to the under-serviced non prime sector.-->
+### Work ### Currently, I am a Risk Analyst at [Elevate Credit](www.elevate.com) in Forth Worth, Texas.  <--Elevate is a fin-tech company, proving online lending solutions to the under-serviced non prime sector.-->
 
 :heart:
 
