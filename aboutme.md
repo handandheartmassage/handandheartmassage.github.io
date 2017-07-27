@@ -10,6 +10,6 @@ subtitle: Get to know me
 
 **Hobbies**: Right now I am training for IRONMAN 70.3 in Austin, TX.  I also enjoy exploring Texas, reading, cooking, and learning to play guitar.
 
-**Childhood**:  Born in Virginia, but North Carolina is home and where I grew up since the age of 6.  Many hours of my...
+**Childhood**:  Born in Virginia, but North Carolina is home and where I grew up since the age of 6.......
 
 ![My Family](/img/fam.jpg)
