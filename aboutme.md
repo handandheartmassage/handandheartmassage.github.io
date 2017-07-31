@@ -10,6 +10,6 @@ subtitle: Get to know me
 
 **Hobbies**: Right now I am training for IRONMAN 70.3 in Austin, TX.  I also enjoy exploring Texas, reading, cooking, and learning to play guitar.
 
-**Childhood**:  Born in Virginia, but North Carolina is home and where I grew up since the age of 6.......
+**Childhood**:  I was born in Virginia, but North Carolina is home and where I grew up since the age of 6.  I grew up spending most of my time playing all types of sports.  Once I was in my teenage years I decided to stick with one - swimming.  I logged quite a few hours in the pool, and went on to swim in college.  Family is also very important to me, below you can see a picture of them at my Masters graduation in the Fall of 2017.  My parents - Brooks and Mary, and sister Stephanie, live back in North Carolina where I love to visit with them throughout the year.
 
 ![My Family](/img/fam.jpg)
