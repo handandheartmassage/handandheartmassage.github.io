@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Greetings!
+title: "Greetings!"
 comments:true
+date: 2017-07-30 11:00:00 -1100
+comments: true
 ---
 
 Welcome to my blog! This is my very first post and I am excited to introduce my blog to you.
