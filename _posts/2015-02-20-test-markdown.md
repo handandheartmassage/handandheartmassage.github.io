@@ -1,57 +1,20 @@
 ---
 layout: post
-title: "Test markdown"
-tags: [Data Science, r, r-bloggers, packages]
-date: 2017-01-09 05:00:00 -0500
+title: "Greetings"
+date: 2017-07-30 11:00:00 -1100
 layout: post
 comments: true
-show-share: true
-show-subscribe: true
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Welcome to my blog! This is my very first post and I am excited to introduce my blog to you.
 
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
+Whether it be the differentiating analytics, complex algorithms or beautiful visualizations - I am fascinated in how we apply data to make better decisions. I have been immersing myself in this space for the last few years and wanted to create this blog to share my curiosities and findings.  I love to learn through nearly every medium: articles, podcasts, projects, books, online courses; and am always looking for recommendations on my next topic or resource to tackle.
  
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
- 
-
-How about a yummy crepe?
-
-![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
+Being involved in the data science and analytics community has been one of my goals recently, and what better way than to start this blog to be able to share what I am working on, as well as communicate with others.  Some of the topics that I will be posting about include:
+  * Personal projects
+  * What I am learning
+  * Kaggle competitions
+  * Relevant articles and resources
+  * and a few personal posts
+  
+If you want to learn a little about who I am, head over to the [About Me](https://loganteal.github.io/aboutme/) section.  I look forward to have this blog up and running, and posting regularly to it!
