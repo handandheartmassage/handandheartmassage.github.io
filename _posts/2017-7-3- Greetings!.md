@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Greetings!"
+title: "Greetings"
 comments:true
 date: 2017-07-30 11:00:00 -1100
 comments: true
