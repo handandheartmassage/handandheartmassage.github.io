@@ -1,5 +1,5 @@
 # --- General options --- #
-paginate_path: "/services/page:num/"
+
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
@@ -23,9 +23,8 @@ title: Hand and Heart Massage
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "handandheartmassage.com"
+  Home: "handandheartmassage.com"
   About Me: "aboutme"
-  Services: "services"
   Contact: "contact"
  #   - How to create a website - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
