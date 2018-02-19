@@ -12,6 +12,7 @@ Interested in setting up an appointment?  Send me an email with preferred date a
 
 <form class="wj-contact" action="https://formspree.io/mary@handandheartmassage.com" method="POST">
     <input type="text" name="email" placeholder="Email Address">
+     <input type="number" name="number" placeholder="Phone Number">
     <textarea type="text" name="content" rows="10" placeholder="Message"></textarea>
     <input type="hidden" name="_next" value="<handandheartmassage.com/thanks> ">
     <input type="hidden" name="_subject" value="New Contact Form Submission">
