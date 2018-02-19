@@ -23,7 +23,7 @@ title: Hand and Heart Massage
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "handandheartmassage.github.io"
+  Blog: "handandheartmassage.com"
   About Me: "aboutme"
 #  LinkedIn: "https://www.linkedin.com/in/loganteal/"
 #  Resources:
@@ -44,7 +44,7 @@ avatar: "/img/handandheart_icon.ico"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Mary Teal
-  email: "@domain.com"
+  email: "mary@handandheartmassage.com"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali
